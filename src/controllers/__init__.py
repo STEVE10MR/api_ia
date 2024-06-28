@@ -1,0 +1,1 @@
+from .faceController import addFaceController,consultFaceController,getFaceController,detectFaceController
